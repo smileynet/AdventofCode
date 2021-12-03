@@ -19,7 +19,7 @@ for move in moves:
 
 outcome = x * y
 
-print(f'outcome: {outcome}')
+print(f'part 1 outcome: {outcome}')
 
 # PART 2
 aim = 0
@@ -40,4 +40,4 @@ for move in moves:
 
 outcome = horizontal_pos * depth
 
-print(f'outcome: {outcome}')
+print(f'part 2 outcome: {outcome}')
